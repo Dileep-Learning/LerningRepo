@@ -6,6 +6,6 @@ public class Test {
 
 	public static void main(String[] args) {
 		Utils u = new Utils();
-		System.out.println("System Date: "+u.getSysDate());
+		System.out.println("System Date...: "+u.getSysDate());
 	}
 }
