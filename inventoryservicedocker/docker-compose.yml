@@ -28,6 +28,6 @@ services:
         window: 120s
       
     ports:
-      - 7074:7070
+      - 7071:7071
     volumes:
       - /data/compose-app
